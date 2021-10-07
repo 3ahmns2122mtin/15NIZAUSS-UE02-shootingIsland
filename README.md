@@ -1,4 +1,4 @@
-# Unity2020.3.18f1-README-Template
+#UE02-ShootingIsland
 
 ### Projektbeschreibung: 
 Einführung in / Zusammenfassung des Projektes. 
@@ -33,4 +33,4 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Neptune
 - [ ] Comet Haley
 
-Copyright by you :)
+Copyright by NIZAUSS 
