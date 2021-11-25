@@ -2,20 +2,20 @@ using UnityEngine;
 
 public class Target : MonoBehaviour
 {
-    public int secToDestroy;
+    [SerializeField] private int secToDestroy;
+    private GameManager gameManager;
 
     // Start is called before the first frame update
     void Start()
     {
+        gameManager = FindObjectOfType<GameManager>();
         //secToDestroy = 2;
-        //Destroy(gameObject, secToDestroy);    
+        //Destroy(gameObject, secToDestroy);
     }
 
     private void OnMouseDown()
     {
-        Debug.Log("Mouse Down");
+        gameManager.IncrementScore();
         Destroy(gameObject);
     }
-
-    
 }
