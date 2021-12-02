@@ -89,4 +89,17 @@ public class GameManager : MonoBehaviour
 
      
     }
+
+    public void DecrementScore()
+    {
+        score--;
+
+        if (textCounter != null)
+        {
+            textCounter.text = score.ToString();
+        }
+    }
 }
+
+
+
