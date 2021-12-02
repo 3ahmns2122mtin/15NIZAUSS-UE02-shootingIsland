@@ -1,13 +1,15 @@
 #UE02-ShootingIsland
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+2D Shooter
 
 ### Entwicklungsplattform: 
 (Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
+
+Zum Spiel: https://3ahmns2122mtin.github.io/15NIZAUSS-UE02-shootingIsland/
 
 ### Visuelle Einblicke in das Projekt: 
 Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
